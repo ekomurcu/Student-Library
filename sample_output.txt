@@ -1,0 +1,16 @@
+No such book in the system
+No such book in the system
+--------********-------
+Mobile Programming []
+Alps History [System user:2 Name: normal1 Registered on: Wed Mar 06 16:16:17 EET 2019 Status: Reader]
+Horizontal Motion []
+--------********-------
+BookName: Alps History. Authors: Ercan, Issa, Raul, 
+--------********-------
+BookName: Alps History. Authors: Ercan, Issa, Raul, 
+BookName: Horizontal Motion. Authors: Ercan, Issa, Raul, 
+BookName: Mobile Programming. Authors: Paul, 
+--------********-------
+System user:1 Name: admin1 Registered on: Wed Mar 06 16:16:17 EET 2019 Status: Admin
+System user:2 Name: normal1 Registered on: Wed Mar 06 16:16:17 EET 2019 Status: Reader
+System user:3 Name: normal2 Registered on: Wed Mar 06 16:16:17 EET 2019 Status: Reader
